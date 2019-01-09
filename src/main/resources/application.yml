@@ -9,4 +9,4 @@ spring:
     host: ${vcap.services.lightblue-cloiudant.credentials.host}
     protocol: https
     port: 443
-database: customers
+	database: customers
